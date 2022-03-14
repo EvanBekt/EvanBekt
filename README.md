@@ -1,12 +1,6 @@
 
 ![Banner Image](https://github.com/evanbekt/evanbekt/blob/main/assets/git.png)
 
-
-<p align="center">
-  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
-  <a href= "https://github.com/evanbekt"><img height="40" src="https://github.com/evanbekt/evanbekt/blob/main/assets/github.svg"></a>
-</p>
-
 <p align="center">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evanbekt.evanbekt&color=00df00">     
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
