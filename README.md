@@ -19,8 +19,8 @@
 ## Evangelos Bektsis - @evanbekt
 - Data Scientist
 - Electrical Enginneer
-- 🧠 Machine Learning / Deep Learning Engineer
-- 👨‍💻 Technology Entrepreneur
+- Machine Learning / Deep Learning Engineer
+- Technology Entrepreneur
 
 ```python
 #!/usr/bin/python
