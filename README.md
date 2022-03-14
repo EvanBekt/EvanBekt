@@ -2,8 +2,6 @@
 ![Banner Image](https://github.com/evanbekt/evanbekt/blob/main/assets/git.png)
 
 
-<!-- [![Linkedin: Evanbekt](https://img.shields.io/badge/-evan%20bekt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gr.linkedin.com/in/evangelos-bektsis)](https://gr.linkedin.com/in/evangelos-bektsis) -->
-
 <p align="center">
   <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
   <a href= "https://github.com/evanbekt"><img height="40" src="https://github.com/evanbekt/evanbekt/blob/main/assets/github.svg"></a>
